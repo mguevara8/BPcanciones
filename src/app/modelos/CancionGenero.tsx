@@ -1,5 +1,4 @@
 export interface CancionGenero{
    codGenero: string;
-   nombreGenero : string;
-   
+   nombreGenero: string;
 }

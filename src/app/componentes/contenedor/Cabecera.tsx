@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import miLogo from "../../../assets/img/miLogo.png"
- 
+
 export const Cabecera = () => {
   return (
     <>
@@ -32,7 +32,7 @@ export const Cabecera = () => {
                   Compositores
                 </NavLink>
               </li>
- 
+
               <li className="nav-item dropdown">
                 <a
                   className="nav-link dropdown-toggle"
@@ -64,7 +64,7 @@ export const Cabecera = () => {
                   </li>
                 </ul>
               </li>
- 
+
               <li className="nav-item">
                 <NavLink className="nav-link" to="/acer">
                   Acerca de

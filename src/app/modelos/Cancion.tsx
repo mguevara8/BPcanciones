@@ -6,14 +6,12 @@ export class Cancion{
   public imagenCancion: string;
   public imagenCancionBase64: string;
 
-  constructor(codC: number, titu: string,cant: string, gene: string, img: string, base: string ){
-      this.codCancion = codC ;
+  constructor(codc: number, titu: string, cant: string, gene: string, imag: string, base: string, ){
+      this.codCancion = codc;
       this.tituloCancion = titu;
       this.cantanteCancion = cant;
       this.codGeneroCancion = gene;
-      this.imagenCancion = img;
+      this.imagenCancion = imag;
       this.imagenCancionBase64 = base;
-
   }
-
 }

@@ -42,7 +42,7 @@ export const CanAdmin = () => {
                                     &nbsp;
                                     <i className="fa-solid fa-trash" style={{ color: "#000080" }}></i></td>
                             </tr>
- 
+
                             <tr>
                                 <td>3</td>
                                 <td>Sin medir distancia</td>
@@ -57,7 +57,7 @@ export const CanAdmin = () => {
                                     <i className="fa-solid fa-trash" style={{ color: "#000080" }}></i>
                                 </td>
                             </tr>
- 
+
                             <tr>
                                 <td>4</td>
                                 <td>My Immortal</td>
@@ -72,7 +72,7 @@ export const CanAdmin = () => {
                                     <i className="fa-solid fa-trash" style={{ color: "#000080" }}></i>
                                 </td>
                             </tr>
- 
+
                         </tbody>
                     </table>
                 </div>
